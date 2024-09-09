@@ -16,3 +16,6 @@ Wang Chao, student at Yenching Institute of Technology
 
 Li Xiuwen, student at Yenching Institute of Technology
 
+3.项目展示（Project Demo）
+![image](public/image/show.png)
+
