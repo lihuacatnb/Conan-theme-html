@@ -8,13 +8,7 @@ This project is an extremely simple Conan-themed HTML project, suitable for unde
 
 2.开发人员（Developers）
 
-王超 燕京理工学院学生
-
-Wang Chao, student at Yenching Institute of Technology
-
-李秀雯 燕京理工学院学生
-
-Li Xiuwen, student at Yenching Institute of Technology
+狸猫科技 Lihuacat Technology
 
 3.项目展示（Project Demo）
 ![image](/show.png)
