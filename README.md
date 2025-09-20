@@ -12,6 +12,11 @@
 ### 2. 项目展示
 ![image](/show.png)
 
+---
+
+<p align="center">⭐️ 如果你觉得有帮助，欢迎点个 Star 支持一下！ ⭐️</p>
+
+
 </details>
 
 ---
@@ -25,6 +30,11 @@ The project materials are collected from the Internet.
 
 ### 2. Project Demo
 ![image](/show.png)
+
+---
+
+<p align="center">⭐️ If you find this helpful, feel free to give it a Star to show your support! ⭐️</p>
+
 
 </details>
 
