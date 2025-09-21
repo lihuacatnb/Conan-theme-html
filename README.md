@@ -25,8 +25,8 @@
 <summary>English Introduction</summary>
 
 ### 1. Project Introduction
-This project is an extremely simple **Conan-theme-html**, suitable for undergraduate students to use for daily homework.  
-The project materials are collected from the Internet.  
+- This project is an extremely simple **Conan-theme-html**, suitable for undergraduate students to use for daily homework.  
+- The project materials are collected from the Internet.  
 
 ### 2. Project Demo
 ![image](/show.png)
